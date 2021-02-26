@@ -35,4 +35,5 @@ jobs:
         # uses: crazy-max/ghaction-github-pages@1510b11c0c2f843eafb8ff41b3da8c467c8d4a9f
         uses: crazy-max/ghaction-github-pages@v2.2.0
         with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           build_dir: dist
