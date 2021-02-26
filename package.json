@@ -4,7 +4,7 @@
   "homepage": "https://medizinmensch.github.io/pamdb/",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/my/public/path/",
+    "build": "vite build --base=/pamdb/",
     "serve": "vite preview"
   },
   "dependencies": {
