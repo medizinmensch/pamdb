@@ -1,7 +1,7 @@
 {
   "name": "pamdb",
   "version": "0.0.2",
-  "homepage": "https://medizinmensch.github.io/"
+  "homepage": "medizinmensch.github.io"
   "scripts": {
     "dev": "vite",
     "build": "vite build",
