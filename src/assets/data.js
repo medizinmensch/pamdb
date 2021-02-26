@@ -7,7 +7,7 @@ export default [
     subtitle: "a simple routine for tight muscles & flexibility",
     length: "0:11:11",
     titleLength: 10,
-    image: "/assets/images/xOqGI7EDe6U.jpg",
+    image: "./assets/images/xOqGI7EDe6U.jpg",
     accent_color: "#b2b0a9",
     workout_type: "stretching",
     tags: "",
